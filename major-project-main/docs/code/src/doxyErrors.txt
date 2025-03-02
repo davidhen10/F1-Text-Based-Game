@@ -1,0 +1,132 @@
+/home/meym2720/major-project/include/Clothing.hpp:6: warning: Compound Clothing is not documented.
+/home/meym2720/major-project/include/Container.hpp:6: warning: Compound Container is not documented.
+/home/meym2720/major-project/include/Inputpuzzle.hpp:68: warning: Compound EquationPuzzle is not documented.
+/home/meym2720/major-project/include/Game.hpp:15: warning: Compound Game is not documented.
+/home/meym2720/major-project/include/Interactpuzzle.hpp:5: warning: Compound Interactpuzzle is not documented.
+/home/meym2720/major-project/include/Inventory.hpp:7: warning: Compound Inventory is not documented.
+/home/meym2720/major-project/include/Inputpuzzle.hpp:63: warning: Compound MultipleChoicePuzzle is not documented.
+/home/meym2720/major-project/include/Objects.hpp:6: warning: Compound Objects is not documented.
+/home/meym2720/major-project/include/Inputpuzzle.hpp:78: warning: Compound PasswordPuzzle is not documented.
+/home/meym2720/major-project/include/Player.hpp:11: warning: Compound Player is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:4: warning: Compound Puzzle is not documented.
+/home/meym2720/major-project/include/Inputpuzzle.hpp:73: warning: Compound RiddlePuzzle is not documented.
+/home/meym2720/major-project/include/Tools.hpp:6: warning: Compound Tools is not documented.
+/home/meym2720/major-project/include/Interactpuzzle.hpp:11: warning: Compound keyPuzzle is not documented.
+/home/meym2720/major-project/include/Environment.hpp:81: warning: Member openTextFile(const std::string &filepath) const (function) of class Environment is not documented.
+/home/meym2720/major-project/include/Environment.hpp:28: warning: Member name (variable) of class Environment is not documented.
+/home/meym2720/major-project/include/Clothing.hpp:8: warning: Member Clothing(std::string) (function) of class Clothing is not documented.
+/home/meym2720/major-project/include/Clothing.hpp:10: warning: Member use() override (function) of class Clothing is not documented.
+/home/meym2720/major-project/include/Clothing.hpp:11: warning: Member isWearingItem() (function) of class Clothing is not documented.
+/home/meym2720/major-project/include/Objects.hpp:11: warning: Member pickUp(Inventory *, Inventory *) (function) of class Objects is not documented.
+/home/meym2720/major-project/include/Objects.hpp:12: warning: Member putDown(Inventory *Inventory) (function) of class Objects is not documented.
+/home/meym2720/major-project/include/Objects.hpp:13: warning: Member getName() const (function) of class Objects is not documented.
+/home/meym2720/major-project/include/Objects.hpp:16: warning: Member objectName (variable) of class Objects is not documented.
+/home/meym2720/major-project/include/Clothing.hpp:14: warning: Member isWorn (variable) of class Clothing is not documented.
+<use>:1: warning: parameters of member Clothing::use are not documented
+/home/meym2720/major-project/include/Container.hpp:13: warning: Member addItem(const std::string &item) (function) of class Container is not documented.
+/home/meym2720/major-project/include/Container.hpp:14: warning: Member removeItem(const std::string &item) (function) of class Container is not documented.
+/home/meym2720/major-project/include/Container.hpp:15: warning: Member getItem(const std::string &item) (function) of class Container is not documented.
+/home/meym2720/major-project/include/Container.hpp:16: warning: Member hasItem(const std::string &item) const (function) of class Container is not documented.
+/home/meym2720/major-project/include/Container.hpp:17: warning: Member listItems() const (function) of class Container is not documented.
+/home/meym2720/major-project/include/Container.hpp:8: warning: Member items (variable) of class Container is not documented.
+/home/meym2720/major-project/include/Environment.hpp:81: warning: Member openTextFile(const std::string &filepath) const (function) of class Environment is not documented.
+/home/meym2720/major-project/include/Environment.hpp:28: warning: Member name (variable) of class Environment is not documented.
+/home/meym2720/major-project/include/Environment.hpp:32: warning: parameters of member Environment::Environment are not documented
+/home/meym2720/major-project/include/Environment.hpp:81: warning: Member openTextFile(const std::string &filepath) const (function) of class Environment is not documented.
+/home/meym2720/major-project/include/Environment.hpp:28: warning: Member name (variable) of class Environment is not documented.
+/home/meym2720/major-project/include/Environment.hpp:58: warning: return type of member Environment::Examine is not documented
+/home/meym2720/major-project/include/Puzzle.hpp:10: warning: Member lose() (function) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:6: warning: Member win (variable) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Game.hpp:21: warning: Member startGame() (function) of class Game is not documented.
+/home/meym2720/major-project/include/Game.hpp:22: warning: Member changeEnvironment(Environment *newEnvironment) (function) of class Game is not documented.
+/home/meym2720/major-project/include/Game.hpp:23: warning: Member describeGame() const (function) of class Game is not documented.
+/home/meym2720/major-project/include/Game.hpp:24: warning: Member playerInteract() (function) of class Game is not documented.
+/home/meym2720/major-project/include/Game.hpp:27: warning: Member mechanicsDriverRoom() (function) of class Game is not documented.
+/home/meym2720/major-project/include/Game.hpp:28: warning: Member mechanicsGarage() (function) of class Game is not documented.
+/home/meym2720/major-project/include/Game.hpp:17: warning: Member player (variable) of class Game is not documented.
+/home/meym2720/major-project/include/Game.hpp:18: warning: Member currentEnvironment (variable) of class Game is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:10: warning: Member lose() (function) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:6: warning: Member win (variable) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Interactpuzzle.hpp:8: warning: Member correctObject(Inventory *, Objects *) (function) of class Interactpuzzle is not documented.
+/home/meym2720/major-project/include/Inventory.hpp:11: warning: Member addObject(Objects *) (function) of class Inventory is not documented.
+/home/meym2720/major-project/include/Inventory.hpp:12: warning: Member removeObject(Objects *) (function) of class Inventory is not documented.
+/home/meym2720/major-project/include/Inventory.hpp:13: warning: Member printInventory() (function) of class Inventory is not documented.
+/home/meym2720/major-project/include/Inventory.hpp:14: warning: Member inInventory(Objects *) (function) of class Inventory is not documented.
+/home/meym2720/major-project/include/Inventory.hpp:15: warning: Member multiInInventory(Objects *, Objects *, Objects *) (function) of class Inventory is not documented.
+/home/meym2720/major-project/include/Inventory.hpp:16: warning: Member getItemList() const (function) of class Inventory is not documented.
+/home/meym2720/major-project/include/Inventory.hpp:19: warning: Member itemList (variable) of class Inventory is not documented.
+/home/meym2720/major-project/include/Interactpuzzle.hpp:14: warning: Member keyCheck(Inventory *, Objects *) (function) of class keyPuzzle is not documented.
+/home/meym2720/major-project/include/Interactpuzzle.hpp:8: warning: Member correctObject(Inventory *, Objects *) (function) of class Interactpuzzle is not documented.
+<<<<<<< HEAD
+/home/meym2720/major-project/include/NPC.hpp:37: warning: return type of member Npc::getName is not documented
+/home/meym2720/major-project/include/Puzzle.hpp:11: warning: Member lose() (function) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:8: warning: Member win (variable) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Inputpuzzle.hpp:30: warning: return type of member MultipleChoicePuzzle::displayPuzzle is not documented
+/home/meym2720/major-project/include/NPC.hpp:37: warning: return type of member Npc::getName is not documented
+=======
+/home/meym2720/major-project/include/NPC.hpp:26: warning: Member conversation() (function) of class Mechanic is not documented.
+/home/meym2720/major-project/include/NPC.hpp:12: warning: Member talk(std::string Name) (function) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:13: warning: Member getName(std::string Name) (function) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:10: warning: Member userInput (variable) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:16: warning: Member name (variable) of class Npc is not documented.
+<conversation>:1: warning: parameters of member Mechanic::conversation are not documented
+/home/meym2720/major-project/include/Puzzle.hpp:10: warning: Member lose() (function) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:6: warning: Member win (variable) of class Puzzle is not documented.
+/home/meym2720/major-project/include/NPC.hpp:12: warning: Member talk(std::string Name) (function) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:13: warning: Member getName(std::string Name) (function) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:14: warning: Member conversation() (function) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:10: warning: Member userInput (variable) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:16: warning: Member name (variable) of class Npc is not documented.
+>>>>>>> edf7f5568bcfedaf702754c4d01e74232163486c
+/home/meym2720/major-project/include/Objects.hpp:10: warning: Member use()=0 (function) of class Objects is not documented.
+/home/meym2720/major-project/include/Objects.hpp:11: warning: Member pickUp(Inventory *, Inventory *) (function) of class Objects is not documented.
+/home/meym2720/major-project/include/Objects.hpp:12: warning: Member putDown(Inventory *Inventory) (function) of class Objects is not documented.
+/home/meym2720/major-project/include/Objects.hpp:13: warning: Member getName() const (function) of class Objects is not documented.
+/home/meym2720/major-project/include/Objects.hpp:16: warning: Member objectName (variable) of class Objects is not documented.
+/home/meym2720/major-project/include/Inputpuzzle.hpp:80: warning: Member displayPuzzleNew() (function) of class PasswordPuzzle is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:10: warning: Member lose() (function) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:6: warning: Member win (variable) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Player.hpp:16: warning: Member interact() (function) of class Player is not documented.
+/home/meym2720/major-project/include/Player.hpp:17: warning: Member getInventory() (function) of class Player is not documented.
+/home/meym2720/major-project/include/Player.hpp:20: warning: Member interactDriverRoom() (function) of class Player is not documented.
+/home/meym2720/major-project/include/Player.hpp:21: warning: Member interactGarage() (function) of class Player is not documented.
+/home/meym2720/major-project/include/Player.hpp:15: warning: Member userInput (variable) of class Player is not documented.
+/home/meym2720/major-project/include/Player.hpp:13: warning: Member inventory (variable) of class Player is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:10: warning: Member lose() (function) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:6: warning: Member win (variable) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Race.hpp:91: warning: return type of member Race::isPuzzleSolved is not documented
+/home/meym2720/major-project/include/Environment.hpp:81: warning: Member openTextFile(const std::string &filepath) const (function) of class Environment is not documented.
+/home/meym2720/major-project/include/Environment.hpp:28: warning: Member name (variable) of class Environment is not documented.
+/home/meym2720/major-project/include/Race.hpp:62: warning: return type of member Race::Examine is not documented
+<<<<<<< HEAD
+/home/meym2720/major-project/include/Race.hpp:96: warning: found documented return type for Race::winGame that does not return anything
+/home/meym2720/major-project/include/Puzzle.hpp:11: warning: Member lose() (function) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:8: warning: Member win (variable) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Inputpuzzle.hpp:30: warning: return type of member RiddlePuzzle::displayPuzzle is not documented
+/home/meym2720/major-project/include/NPC.hpp:37: warning: return type of member Npc::getName is not documented
+/home/meym2720/major-project/include/NPC.hpp:37: warning: return type of member Npc::getName is not documented
+=======
+/home/meym2720/major-project/include/Race.hpp:80: warning: parameters of member Race::setPuzzle are not documented
+/home/meym2720/major-project/include/Race.hpp:80: warning: found documented return type for Race::setPuzzle that does not return anything
+/home/meym2720/major-project/include/Puzzle.hpp:10: warning: Member lose() (function) of class Puzzle is not documented.
+/home/meym2720/major-project/include/Puzzle.hpp:6: warning: Member win (variable) of class Puzzle is not documented.
+/home/meym2720/major-project/include/NPC.hpp:21: warning: Member conversation() (function) of class Teammate is not documented.
+/home/meym2720/major-project/include/NPC.hpp:12: warning: Member talk(std::string Name) (function) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:13: warning: Member getName(std::string Name) (function) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:10: warning: Member userInput (variable) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:16: warning: Member name (variable) of class Npc is not documented.
+<conversation>:1: warning: parameters of member Teammate::conversation are not documented
+/home/meym2720/major-project/include/NPC.hpp:31: warning: Member conversation() (function) of class TeamPrinciple is not documented.
+/home/meym2720/major-project/include/NPC.hpp:12: warning: Member talk(std::string Name) (function) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:13: warning: Member getName(std::string Name) (function) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:10: warning: Member userInput (variable) of class Npc is not documented.
+/home/meym2720/major-project/include/NPC.hpp:16: warning: Member name (variable) of class Npc is not documented.
+<conversation>:1: warning: parameters of member TeamPrinciple::conversation are not documented
+>>>>>>> edf7f5568bcfedaf702754c4d01e74232163486c
+/home/meym2720/major-project/include/Tools.hpp:8: warning: Member Tools(std::string) (function) of class Tools is not documented.
+/home/meym2720/major-project/include/Tools.hpp:10: warning: Member use() override (function) of class Tools is not documented.
+/home/meym2720/major-project/include/Objects.hpp:11: warning: Member pickUp(Inventory *, Inventory *) (function) of class Objects is not documented.
+/home/meym2720/major-project/include/Objects.hpp:12: warning: Member putDown(Inventory *Inventory) (function) of class Objects is not documented.
+/home/meym2720/major-project/include/Objects.hpp:13: warning: Member getName() const (function) of class Objects is not documented.
+/home/meym2720/major-project/include/Objects.hpp:16: warning: Member objectName (variable) of class Objects is not documented.
+<use>:1: warning: parameters of member Tools::use are not documented
